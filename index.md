@@ -2,7 +2,7 @@
  
 --| <div align=center>信息</div>
 :--- | :-----
- ![avatar](http://images/23EACC50-38E0-4284-B99A-6BC22E284BAC.jpg#pic_center =180x200)|姓名：陈磊  <br><br> 专业：软件工程<br><br> QQ：2579632147<br><br> 电话：19979547408<br><br> 邮箱：lei17707050441@163.com
+ ![http://images/23EACC50-38E0-4284-B99A-6BC22E284BAC.jpg](https://www.muban99.com/images/23EACC50-38E0-4284-B99A-6BC22E284BAC.jpg)#pic_center =180x200)|姓名：陈磊  <br><br> 专业：软件工程<br><br> QQ：2579632147<br><br> 电话：19979547408<br><br> 邮箱：lei17707050441@163.com
  
 ||<div align=center>基本信息</div>|
 |:-:|:----------|
