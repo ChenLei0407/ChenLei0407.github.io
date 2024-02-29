@@ -1,3 +1,3 @@
-| Header One     | <div align=center>信息</div>     |
+| Header One     | <center>信息    |
 | :-------------: | :-------------: |
 | Item One       | Item Two       |
