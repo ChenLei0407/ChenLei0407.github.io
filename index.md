@@ -1,6 +1,6 @@
 <div align=center>
  
-<div align=center>帅照</div>| <div align=center>信息</div>
+--帅照--| <div align=center>信息</div>
 :--- | :-----
  欠照片一张|姓名：陈磊  <br><br> 专业：软件工程<br><br> QQ：2579632147<br><br> 电话：19979547408<br><br> 邮箱：lei17707050441@163.com
  
