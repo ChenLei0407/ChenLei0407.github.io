@@ -2,7 +2,7 @@
  
 --| <div align=center>信息</div>
 :--- | :-----
- ![avatar](./照片.jpg#pic_center =180x200)|姓名：陈磊  <br><br> 专业：软件工程<br><br> QQ：2579632147<br><br> 电话：19979547408<br><br> 邮箱：lei17707050441@163.com
+ ![avatar](./zhaopian.jpg#pic_center =180x200)|姓名：陈磊  <br><br> 专业：软件工程<br><br> QQ：2579632147<br><br> 电话：19979547408<br><br> 邮箱：lei17707050441@163.com
  
 ||<div align=center>基本信息</div>|
 |:-:|:----------|
